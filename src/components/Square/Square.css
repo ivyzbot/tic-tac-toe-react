@@ -1,0 +1,9 @@
+#board > div {
+    border-color: black;
+    border-style: solid;
+}
+
+.blank-box:hover {
+    background-color: lightgreen !important;
+    cursor: grab;
+}
