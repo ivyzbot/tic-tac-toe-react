@@ -1,4 +1,9 @@
-#root {
-  margin: 0 auto;
-  text-align: center;
+
+
+.PURPLE {
+  color: purple;
+}
+
+.ORANGE {
+  color: orange;
 }

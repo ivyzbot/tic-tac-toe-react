@@ -1,7 +1,12 @@
-#play-again-btn:hover {
-    color: beige;
-    background-color: gray;
+#play-again-btn {
+    margin-top: 50px;
     border-color: gray;
+    font-size: 30px;
+    color: gray;
+    border-radius: 5%;
+    padding: 5px;
+    background-color: transparent;
+    transition-duration: 0.4s;
 }
 
 #play-again-btn:hover {
