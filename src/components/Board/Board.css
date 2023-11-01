@@ -2,10 +2,9 @@
     height: 500px;
     width: 500px;
     margin: auto;
-    /* position: absolute; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    border-color: black;
+    border-color: #252525;
     border-style: solid;
 }

@@ -1,5 +1,5 @@
 const color = {
-  null: "green",
+  null: "lightcyan",
   T: "green",
   1: "purple",
   "-1": "orange",

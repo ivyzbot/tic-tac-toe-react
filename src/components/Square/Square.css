@@ -1,9 +1,13 @@
 #board > div {
-    border-color: black;
+    border-color: #252525;
     border-style: solid;
 }
 
 .blank-box:hover {
-    background-color: lightgreen !important;
+    background-color: beige !important;
     cursor: grab;
+}
+
+img {
+    height: 150px;
 }
